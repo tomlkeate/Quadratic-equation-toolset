@@ -7,3 +7,4 @@ if you are on Linux then to run this you can just compile the c file with gcc bu
 After compiling then running the compiled code it will create a text document called data.txt that after you enter the data will hold the vertex and some other points
 
 The checksum for the exe file is: d702b640f46bb6b0930dda08675d4deb228b2b8ffcddc3fe55250c957fea19af
+The virustotal link is here:[www.virustotal.com](https://www.virustotal.com/en/file/d702b640f46bb6b0930dda08675d4deb228b2b8ffcddc3fe55250c957fea19af/analysis/)

@@ -1,4 +1,4 @@
-This is a tool to help you find quadratic equation vertex and points to graph completely written in c (for fun)
+This is a tool to help you find quadratic equation vertex and points to graph completely written in c (for fun ad for educational purposes)
 
 If you are on a windows Operating System Then Run The exe beware the exe file requires the cygwin1.dll to run
 
